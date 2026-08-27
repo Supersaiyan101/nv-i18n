@@ -155,7 +155,7 @@ public enum CurrencyCode
      * <li>{@link CountryCode#HM HM}: HEARD ISLAND AND McDONALD ISLANDS
      * <li>{@link CountryCode#KI KI}: KIRIBATI
      * <li>{@link CountryCode#NF NF}: NORFOLK ISLAND
-     * <li>{@link CountryCode#NR NR}: NAURU
+     * <li>{@link CountryCode#NR NR}: NAOERO
      * <li>{@link CountryCode#TV TV}: TUVALU
      * </ul>
      */

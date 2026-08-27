@@ -1581,11 +1581,11 @@ public enum CountryCode
     NP("Nepal", "NPL", 524, Assignment.OFFICIALLY_ASSIGNED),
 
     /**
-     * <a href="http://en.wikipedia.org/wiki/Nauru">Nauru</a>
+     * <a href="http://en.wikipedia.org/wiki/Naoero">Naoero</a>
      * [<a href="http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#NR">NR</a>, NRU, 520,
      * Officially assigned]
      */
-    NR("Nauru", "NRU", 520, Assignment.OFFICIALLY_ASSIGNED),
+    NR("Naoero", "NRU", 520, Assignment.OFFICIALLY_ASSIGNED),
 
     /**
      * <a href="http://en.wikipedia.org/wiki/Saudi%E2%80%93Iraqi_neutral_zone">Neutral Zone</a>
