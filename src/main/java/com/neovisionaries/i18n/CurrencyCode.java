@@ -2197,6 +2197,12 @@ public enum CurrencyCode
     WST("Tala", 882, 2, CountryCode.WS),
 
     /**
+     * <a href="https://en.wikipedia.org/wiki/Arab_Monetary_Fund">Arab Accounting Dinar</a>
+     * [numeric code = 396, minor unit = 2]
+     */
+    XAD("Arab Accounting Dinar", 396, 2),
+
+    /**
      * <a href="http://en.wikipedia.org/wiki/Central_African_CFA_franc">CFA Franc BEAC</a>
      * [numeric code = 950, minor unit = 0]
      *
